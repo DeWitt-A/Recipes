@@ -1,6 +1,6 @@
 # Recipe App
 
-This project was started to help in my recovery from an stroke.
+This project was started to help in my recovery from a stroke.
 
 I will built a small application to manage recipes. My goal to to work with all the parts of the software development.
 
