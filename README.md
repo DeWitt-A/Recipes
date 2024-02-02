@@ -1,27 +1,28 @@
-# RecipeApp
+# Recipe App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.1.
+This project was started to help in my recovery from an stroke.
 
-## Development server
+I will built a small application to manage recipes. My goal to to work with all the parts of the software development.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Architecture 
 
-## Code scaffolding
+Angular - Typescript
+Data - DynamoDB 
+Security - 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Agile Project
 
-## Build
+1.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## UI
 
-## Running unit tests
+1.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Data
 
-## Running end-to-end tests
+1.
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+## Test
 
-## Further help
+1.
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
