@@ -1,6 +1,7 @@
 import { Component, inject } from '@angular/core';
 import { BreakpointObserver, Breakpoints } from '@angular/cdk/layout';
 import { AsyncPipe } from '@angular/common';
+import { RouterOutlet } from '@angular/router';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { MatSidenavModule } from '@angular/material/sidenav';
@@ -15,6 +16,7 @@ import { map, shareReplay } from 'rxjs/operators';
   styleUrl: './nav.component.css',
   standalone: true,
   imports: [
+    RouterOutlet,
     MatToolbarModule,
     MatButtonModule,
     MatSidenavModule,
