@@ -1,4 +1,4 @@
-import { Ingredient } from "./ingredient"
+import { Ingredient } from './ingredient'
 
 export const MOCK_INGREDIENTS: Ingredient[] = [
     {
@@ -15,7 +15,13 @@ export const MOCK_INGREDIENTS: Ingredient[] = [
         id: '3',
         desc: 'Thyme, fresh',
         amount: '1 teaspoon, chopped'
+    },
+    {
+        id: '4',
+        desc: 'Kosher salt',
+        amount: '2 teaspoons'
     }
+
 
 ]
 

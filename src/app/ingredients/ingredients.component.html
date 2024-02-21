@@ -1,8 +1,6 @@
 
-<h3>Ingredients List:</h3>
-    
-
   <mat-list>
+    <h3>Ingredients List:</h3>
     @for(ingredient of ingredients; track ingredient.id) {
         <mat-list-item>
             <span matListItemTitle>{{ ingredient.desc }}</span>
