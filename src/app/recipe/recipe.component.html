@@ -4,3 +4,14 @@
 
 <app-ingredients></app-ingredients>
 
+<h2>Directions</h2>
+
+<p></p>
+
+@for(direction of recipe.directions; track direction) {
+    <p>
+        {{ direction }}
+    </p>
+}
+
+
